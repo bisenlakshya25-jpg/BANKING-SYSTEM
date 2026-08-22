@@ -1,0 +1,27 @@
+{
+    "bankers": {
+        "JD27628": {
+            "Name": "Jiesed",
+            "Father's Name": "Gajendra",
+            "Password": "52698",
+            "Appointment Date": "2026-08-22 08:10:38",
+            "Status": "Active"
+        }
+    },
+    "admins": {
+        "12363": {
+            "Name": "Admin",
+            "Father's Name": "Admin",
+            "Password": "admin123",
+            "Appointment Date": 5460,
+            "Status": "Active"
+        },
+        "BN56551": {
+            "Name": "Bissen",
+            "Father's Name": "Yrt",
+            "Password": "55363",
+            "Appointment Date": "26-08-08/21/26 08:41:16",
+            "Status": "Active"
+        }
+    }
+}
