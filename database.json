@@ -1,0 +1,23 @@
+{
+    "959459206051": {
+        "Name": "Lakshya",
+        "Phone Number": "6352873526",
+        "Pin": "123456",
+        "Opening Date": "26-08-08/22/26 08:21:45",
+        "Balance": "2300",
+        "History": [
+            {
+                "Type": "Deposit",
+                "Amount": "2000",
+                "Date": "26-08-08/22/26 08:21:45"
+            },
+            {
+                "Type": "Credit",
+                "Source": "Deposit",
+                "Amount": "300",
+                "Date": "26-08-08/22/26 08:23:40"
+            }
+        ],
+        "Status": "Active"
+    }
+}
